@@ -1,8 +1,7 @@
  ,#genre#
 翡翠台,http://cdn10.jdshipin.com:8880/fct/$官频1
 翡翠台,http://php.jdshipin.com:8880/xsj.php?id=feicui$官频2
-翡翠台,https://mytv.btjson.us.kg/stream/tvb/null/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc$histar-1
-翡翠台,https://mytvsuper.btjson.us.kg/stream/tvb/null-33/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc$histar-2
+翡翠台,http://cdn9.1678520.xyz/xsj2.1.php?id=feicui$官频3
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct4
@@ -10,27 +9,16 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,https://lzoq.serv00.net/daili/Smartv.php?id=jade_twn
-翡翠台,http://xyt.186738613.xyz/Smartv.php?id=jade_twn
-翡翠台,https://bsex.serv00.net/Smart.php?id=jade_twn
-翡翠台,http://samuelwongvv.serv00.net/Smartv.php?id=jade_twn
-翡翠台,http://php.jdshipin.com:8880/ub.php?id=fct
-翡翠台,https://api.btbt.im/live?id=feicui
 翡翠台,http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV.live.ts$低延时推流1
 翡翠台,http://120.211.93.113:8089/tvb翡翠2/香蕉哥专用-易發TV.live.flv$低延时推流2
-翡翠台,https://cloud.lxweb.cn/f/nRqYF6/studio_video_1714222795212.mp4$提示 
-
-翡翠台 4K,https://mytvsuper.btjson.us.kg/stream/tvb/4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc$4K50超高清
 
 地波翡翠,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
 地波翡翠,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 地波翡翠,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
-地波翡翠,http://extraott.com:80/live/7921751389/6097373662/62827.m3u8
+地波翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt$超宽频主线
 明珠台,https://mytv.btjson.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
