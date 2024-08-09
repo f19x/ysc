@@ -1,5 +1,6 @@
 翡翠直播,#genre#
-翡翠台,http://cdn3.1678520.xyz/live/?id=fct4k
+翡翠台,http://cdn3.1678520.xyz/live/?id=fct4k$4K超高清-官频
+翡翠台,https://live.hkdvb.com/hls/live/800.m3u8?token=711869165720741$4K超高清-智能
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn$超宽频主线
 翡翠台,http://cdn3.1678520.xyz/live/?id=fct
 翡翠台,http://cdn3.1678520.xyz/live/?id=fct2
@@ -17,7 +18,7 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,https://tvb.mytvsuper.us.kg/stream/tvb/null-33/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=711869165720741
 翡翠台,http://123.150.5.131:9000/tvb翡翠盗源可耻/易發TV专用.live.flv
 翡翠台,http://120.211.93.113:8089/tvb翡翠-盗源可耻/易發TV专用.live.ts
 
