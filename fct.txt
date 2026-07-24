@@ -1,0 +1,20 @@
+﻿翡翠直播,#genre#
+20260724,https://raw.giteeusercontent.com/f19x-2/fct/raw/master/回归.mp4$-使用提示-
+#优质源
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+翡翠台,http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0$恩赐信号
+翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
+翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
+翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
+翡翠台,http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
+翡翠台,https://cdn6.cc.cd/163189/fct
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct4k/
+翡翠台    https://gitee.com/F19x/fct/raw/master/温馨提示.mp4$---------
+#低质源
+翡翠台  https://gitee.com/F19x/fct/raw/master/VST.mp4$---------
+#失效
+翡翠台 http://erp.giihgtidg.com:8080/live/jade01.m3u8$独家推流
+翡翠台 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台 http://php.jdshipin.com:8880/smt.php?id=Jade_xue
